@@ -38,3 +38,7 @@ To start, simply select a topic from our extensive list. You will be guided thro
 ### How to Proceed
 
 To explore a topic, just mention it, and we will begin our journey through the ten steps, tailored specifically to that subject. If you're ready to dive into a specific area of mental health, let's begin!
+
+### DISCLAIMER
+
+The information provided on "The Mind" is intended for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your healthcare provider with any questions you may have regarding a medical condition.

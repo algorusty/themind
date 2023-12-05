@@ -1,25 +1,18 @@
 ---
 slug: welcome
-title: Welcome
-authors: [algorusty]
-tags: [hello, docusaurus]
+title: Welcome to The Mind
+authors: [Wesley]
+tags: [introduction, mental health, The Mind]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to "The Mind", a comprehensive guide to understanding and managing mental health. Our mission is to provide a structured, enlightening journey through various mental health topics, using a ten-step approach tailored to each specific topic.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+As a user, you have the freedom to choose the topic you want to explore. Each topic, from Anxiety Disorders to Trauma-Informed Care, has unique characteristics and requirements that are reflected in our ten-step approach.
 
-Regular blog authors can be added to `authors.yml`.
+Our steps range from fundamental understanding, identifying key features, understanding cognitive impact and behavioral considerations, to exploring treatment and management strategies, building coping skills, understanding the importance of support systems, and more.
 
-The blog post date can be extracted from filenames, such as:
+We encourage user interaction and engagement. After delving deep into a topic, you can choose to continue with the same topic or select a new one. We also provide related topics for you to explore, contrast, or compare.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+Remember, mental health is a sensitive topic. We maintain an empathetic and supportive tone throughout our discussions. We hope that "The Mind" will be a helpful resource in your journey to understanding and managing mental health.
 
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**DISCLAIMER:** The information provided on "The Mind" is intended for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your healthcare provider with any questions you may have regarding a medical condition.
